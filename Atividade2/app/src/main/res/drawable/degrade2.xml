@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Degradê claro -->
+
+    <gradient
+        android:startColor="@color/ciano"
+        android:centerColor="@color/ciano_light"
+        android:endColor="@color/ciano_bebe"
+        android:angle="90"/>
+
+</selector>
